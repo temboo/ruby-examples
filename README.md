@@ -7,7 +7,7 @@ Learn more, and get the Temboo SDK in your favorite language, at [temboo.com](ht
 
 ###Quickstart
  1. Sign up for a free account at [temboo.com](https://temboo.com)
- 2. Download the Temboo Ruby SDK from [www.temboo.com/download](https://www.temboo.com/download)
+ 2. Download the Temboo Ruby SDK from [temboo.com/download](https://www.temboo.com/download)
  3. Install the downloaded gem: `gem install temboo-ruby-sdk-<version>.gem`
  4. Clone this repo: `git clone git@github.com:temboo/ruby-examples.git`
  5. Open the example you'd like to use, and update the constants with your Temboo account information (and, if applicable, your 3rd party service credentials)
